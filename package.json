@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-puppeteer-web-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mario Volochen",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
