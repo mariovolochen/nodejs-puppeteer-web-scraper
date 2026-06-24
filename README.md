@@ -6,7 +6,7 @@ Saber fazer *Web Scraping* é uma habilidade fundamental para desenvolvedores ba
 
 ## 🛠️ Como Instalar
 ```bash
-git clone https://github.com/SEU_USUARIO/nodejs-puppeteer-web-scraper.git
+git clone https://github.com/mariovolochen/nodejs-puppeteer-web-scraper.git
 cd nodejs-puppeteer-web-scraper
 npm install
 ```
